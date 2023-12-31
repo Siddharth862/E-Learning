@@ -1,0 +1,2 @@
+# E-learningPortal
+This web application was developed for external competition,it is e-learning portal, students can learn courses from this portal and lectureres add their courses in this portal or they can take some extra classes ,who register in their courses.And this portal is helpful to the unemployed persons or who want develop their skills.This portal contains courses from 1st standard to above graduates.
